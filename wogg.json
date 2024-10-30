@@ -3,27 +3,6 @@
         {
       "url": "http://www.饭太硬.com/tv",
       "name": "进文采"
-    },{
-      "key": "芒果",
-      "name": "芒果影视",
-      "type": 3,
-      "api": "https://codeberg.org/qihao/4k/raw/branch/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
-    },
-    {
-          "key": "崽",
-          "name": "全球影视",
-          "type": 3,
-          "api": "https://codeberg.org/qihao/4k/raw/branch/main/drpy2.min.js",
-          "quickSearch": 1,
-          "changeable": 1,
-          "filterable": 1,
-         "ext": "https://codeberg.org/qihao/4k/raw/branch/main/%E5%B4%BD%E5%B4%BD.js"
     },
     {
       "url": "https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp",
