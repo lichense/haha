@@ -1,8 +1,8 @@
 #EXTM3U"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="15509" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="【点此获取最新直播源】",访问www.lysvc.cc搜直播源
+#EXTINF:-1 tvg-id="15509" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="【非盈利】",欢迎观看
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
-#EXTINF:-1 tvg-id="15509" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="【点此获取最新直播源】",免费更新，谨防受骗
+#EXTINF:-1 tvg-id="15509" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="【欢迎观看】",免费更新，谨防受骗
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshd
 #EXTINF:-1 tvg-id="AMC.af" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="Afghanistan",AMC (1080p)
 https://amchls.wns.live/hls/stream.m3u8
