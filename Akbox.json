@@ -1,6 +1,90 @@
 {
 	"spider":"./pg.jar",
-	"sites":[
+	"sites":[{
+            "key": "XVideos",
+            "name": "🔞XVideos | 直连",
+            "type": 3,
+            "api": "csp_Xv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api.xv-api.com/api",
+            "jar": "./jar/Xv.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+    {
+            "key": "Eighteen",
+            "name": "Eighteen",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Netflav",
+            "name": "Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Taohuazu",
+            "name": "Taohuazu",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "JavBus",
+            "name": "JavBus",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "JavDb",
+            "name": "JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "MissAV",
+            "name": "MissAV🚀",
+            "type": 3,
+            "api": "csp_Miss",
+            "searchable": 1
+        },
+        {
+            "key": "Jable",
+            "name": "Jable🚀",
+            "type": 3,
+            "api": "csp_Jable",
+            "searchable": 1
+        },
+        {
+            "key": "PikPakShare18",
+            "name": "PikPak18分享🚀",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/pikpakclass18.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
@@ -89,91 +173,7 @@
 			"timeout": 60,
 			"ext": "/lib/tokenm.json$$$null$$$null$$$1"
 		},
-		{
-            "key": "XVideos",
-            "name": "🔞XVideos | 直连",
-            "type": 3,
-            "api": "csp_Xv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://api.xv-api.com/api",
-            "jar": "./jar/Xv.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
-    {
-            "key": "Eighteen",
-            "name": "Eighteen",
-            "type": 3,
-            "api": "csp_Eighteen",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Netflav",
-            "name": "Netflav",
-            "type": 3,
-            "api": "csp_Netflav",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Taohuazu",
-            "name": "Taohuazu",
-            "type": 3,
-            "api": "csp_Taohuazu",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "JavBus",
-            "name": "JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "JavDb",
-            "name": "JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "MissAV",
-            "name": "MissAV🚀",
-            "type": 3,
-            "api": "csp_Miss",
-            "searchable": 1
-        },
-        {
-            "key": "Jable",
-            "name": "Jable🚀",
-            "type": 3,
-            "api": "csp_Jable",
-            "searchable": 1
-        },
-        {
-            "key": "PikPakShare18",
-            "name": "PikPak18分享🚀",
-            "type": 3,
-            "api": "csp_PikPakShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$./lib/pikpakclass18.json",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
+		
 		{
 		  "key": "玩偶",
 		  "name": "🥷玩偶┃网盘┃综合",
