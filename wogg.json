@@ -1,29 +1,24 @@
 {
   "urls": [
-        {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "进文采"
-    },
-    {
-      "url": "https://gitlab.com/lisenchen168/bird/-/raw/main/8K.json",
-      "name": "瑶瑶4k影院"
-    },
-    {
-      "url": "https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/2e02e908-df48-4d0d-896c-b784e116f4c5.bmp",
-      "name": "选萌米"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/lvqh020/smileys/0e9c43f44c4c07ba298538805a1b4014b9f68ca2/YSC/18",
-      "name": "诚挚彬彬"
-    },
-    {
+  {
+      "name": "🈲区芳龄18直连",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/atsushi444/tvbox/main/tvbox.json"
+    },{
       "url": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json",
-      "name": "进老mao"
+      "name": "🈲区进老mao"
     },{
-      "url": "https://raw.githubusercontent.com/AlanTse1314/Dong-learn9-TVBox-zyjk/refs/heads/main/18.json",
-      "name": "成人之位"
+      "url": "https://10849.kstore.space/qielive.json",
+      "name": "🈲区成仁之位"
     },{
-      "url": "https://10849.kstore.space/dase.json",
-      "name": "进直播"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AngelkookLJ/Ak-tvbox/main/Akbox.json",
+      "name": "🈲区MISSmv(🛩️)"
+    },
+    {      
+      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+      "name": "🈲区爱啪55(🛩️)"
+    },
+    {
+      "url": "https://d.kstore.dev/download/10849/dase.json",
+      "name": "🈲进直播(🛩️)"
     }  ]
 }
